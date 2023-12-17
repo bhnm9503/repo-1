@@ -20,5 +20,5 @@ git clone https://github.com/AleoHQ/snarkOS.git --depth 1
 cd snarkOS.
 
 ./build_ubuntu.sh
-Good luck
+
 
