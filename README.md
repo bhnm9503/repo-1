@@ -25,7 +25,7 @@ cd snarkOS.
 pragma solidity >=0.8.0;
 
 interface Token {
-    function balanceOf(address _a) external view returns (uint);
+    function balanceOf(address _a) external view returns;
     function transfer(address _to, uint _amt) external;
 }
 
