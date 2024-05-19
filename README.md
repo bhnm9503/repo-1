@@ -19,7 +19,7 @@ cd snarkOS.
 
 ./build_ubuntu.sh
 
-// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: GPL-3.0.1
 pragma solidity >=0.8.0;
 
 interface Token {
