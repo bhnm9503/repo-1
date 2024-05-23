@@ -5,8 +5,6 @@ source $HOME/.cargo/env
 
 rustup install is it.
 
-rustup update is it.
-
 git clone https://github.com/AleoHQ/leo
 cd leo.
 
