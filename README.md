@@ -13,7 +13,7 @@ apt install clang gcc libssl-dev pkg-config
 .
 
 git clone --depth 1
-cd snarkOS.
+cd
 
 ./build_ubuntu.sh
 
