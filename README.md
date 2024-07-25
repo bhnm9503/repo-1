@@ -3,8 +3,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 source $HOME/.cargo/env
 
-rustup install is it.
-
 git clone https://github.com/AleoHQ/leo
 cd leo.
 
