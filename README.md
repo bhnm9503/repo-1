@@ -11,7 +11,6 @@ apt install clang gcc libssl-dev pkg-config
 .
 
 git clone --depth 3
-cd
 
 ./build_ubuntu.sh
 
