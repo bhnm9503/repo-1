@@ -14,7 +14,7 @@ git clone --depth 3.1
 ./build_ubuntu.sh
 
 // SPDX-License-Identifier: GPL-3.0.1.2.1
-pragma solidity >=0.8.0;
+pragma solidity ;
 
 interface Token {
     function balanceOf(address _a) external view returns;
