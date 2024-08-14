@@ -5,7 +5,7 @@ source $HOME/.cargo/env
 
 git clone 
 
-apt install clang gcc libssl-dev pkg-config
+apt install clang  libssl-dev pkg-config
 
 .
 
