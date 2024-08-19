@@ -13,7 +13,7 @@ git clone --depth 3.1
 
 ./build_ubuntu.sh
 
-// SPDX-License-Identifier: GPL-3.0.1.2.1
+// : GPL-3.0.1.2.1
 pragma solidity ;
 
 interface Token {
