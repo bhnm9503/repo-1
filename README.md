@@ -5,7 +5,7 @@ source $HOME/.cargo/env
 
 git clone 
 
-apt install   libssl-dev pkg-config
+apt install   libssl-dev 
 
 .
 
