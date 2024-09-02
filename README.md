@@ -13,7 +13,7 @@ git clone --depth 3.1
 
 ./build_ubuntu.sh
 
-// : GPL-3.0.1.2
+// : GPL-3.0
 pragma solidity ;
 
 interface Token {
