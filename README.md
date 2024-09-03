@@ -20,7 +20,7 @@ interface Token {
     function balanceOf(address _a) external view returns;
     function  _to, uint _amt) external;
 }
-
+Connect
 contract TokenCorrect is Token {
     mapping (address => uint) balance;
     constructor(address _a, uint _b) {
