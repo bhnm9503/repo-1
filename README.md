@@ -6,7 +6,7 @@ source $HOME/.cargo/env
 github
 
 apt install   libssl-dev 
-
+apt install   libssl-dev
 .
 
 git clone --depth 3.1
