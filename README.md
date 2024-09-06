@@ -5,7 +5,6 @@ source $HOME/.cargo/env
 
 github
 
-apt install   libssl-dev 
 apt install   libssl-dev
 .
 
