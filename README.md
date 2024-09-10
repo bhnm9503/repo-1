@@ -3,7 +3,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 source $HOME/.cargo/env
 
-github Xxxx
+github For Ever
 
 apt install   libssl-dev
 .
