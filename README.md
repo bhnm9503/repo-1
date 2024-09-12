@@ -34,7 +34,7 @@ contract TokenCorrect is Token {
     }
 }
 
-contract Test {
+contract Test Idbjcccc {
     function property_transfer(address _token, address _to, Bbfbnn uint _amt) public {
         require(_to != address(this));
 
