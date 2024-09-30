@@ -8,7 +8,7 @@ github For Ever
 apt install   libssl-de
 .
 
-git clone --depth 3.1.6
+git clone --depth 3.1
 
 ./build_ubuntu.sh
 
