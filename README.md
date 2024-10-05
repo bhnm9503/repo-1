@@ -5,7 +5,7 @@ source $HOME/.cargo/env
 
 github For Ever
 
-apt install   libssl-de
+apt install   libssl
 .
 
 git clone --depth 3.1.7
