@@ -8,7 +8,7 @@ github For Ever
 apt install   libssl
 .
 
-git clone --depth 3.1.7
+git clone --depth 3.1
 
 ./build_ubuntu.sh
 
