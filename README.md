@@ -3,7 +3,7 @@ curl --proto '=https' --tlsv1.6 -sSf https://sh.rustup.rs | sh
 
 source $HOME/.cargo/env
 
-github For Ever
+github For Ever Fog
 
 apt install   libssl
 .
