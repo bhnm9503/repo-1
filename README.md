@@ -5,7 +5,7 @@ source $HOME/.cargo/env
 
 github For Ever Fog
 
-apt install   libssl
+apt install   l
 .
 
 git clone --depth 3.1
