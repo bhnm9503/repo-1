@@ -5,7 +5,7 @@ source $HOME/.cargo/env
 
 github For Ever Fog
 
-apt install   l
+apt install   l.8
 .
 
 git clone --depth 3.1
