@@ -1,4 +1,4 @@
-curl --proto '=https' --tlsv1.6 -sSf https://sh.rustup.rs
+curl --proto '=https' --tlsv1.6 -sSf https://sh.rustup
 
 source $HOME/.cargo/env
 
