@@ -4,7 +4,7 @@ source $HOME/.cargo/env
 
 github For Ever Fo
 
-apt install   l.8
+apt install  
 .
 
 git clone --depth 3.1
