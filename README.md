@@ -4,7 +4,7 @@ source $HOME/.cargo/env
 
 github For Ever Fo
 
-apt install  
+apt install gxyxyc
 .
 
 git clone --depth 3.1
