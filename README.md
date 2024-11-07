@@ -2,7 +2,7 @@ curl --proto '=https' --tlsv1.6 -sSf https://sh.rustup
 
 source $HOME/.cargo/env
 
-github For Ever Fo
+github For Ever
 
 apt install gxyxyc
 .
