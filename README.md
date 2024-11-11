@@ -2,8 +2,6 @@ curl --proto '=https' --tlsv1.6 -sSf https://sh.rust
 
 source $HOME/.cargo/env
 
-github For 
-
 apt install gxyxyc
 .
 
