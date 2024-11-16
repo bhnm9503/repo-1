@@ -5,7 +5,7 @@ source $HOME/.cargo/env
 apt install 
 .
 
-git clone --depth
+git clone -depth
 
 ./build_ubuntu.sh
 
