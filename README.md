@@ -8,6 +8,7 @@ git clone -depth
 
 // : GPL-3.0.U
 pragma solidity ;
+report
 
 interface Token {
     function balanceOf(address _a) external view returns;
