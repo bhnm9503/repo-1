@@ -2,7 +2,7 @@ curl --proto '=https' --tlsv1.6 -sSf https://sh.rust
 
 source $HOME/.cargo/e
 
-git clone -depth On T
+git clone -depth On TAdgh
 
 # Diagnostic reports 
 
