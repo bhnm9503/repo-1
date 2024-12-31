@@ -1,6 +1,6 @@
 curl --proto '=https' --tlsv1.6 -sSf https://sh.rust
 
-source $HOME/.cargo/en
+source $HOME/.cargo/en Or Pr
 
 git clone -depth On TAdeyra
 
