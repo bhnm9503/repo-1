@@ -1,4 +1,5 @@
 curl --proto '=https' --tlsv1.6 -sSf https://sh.rust
+999
 
 source $HOME/.cargo/en Or Pr
 
