@@ -1,4 +1,4 @@
-curl --proto '=https' --tlsv1.6 -sSf https://sh.rust 1.9.8
+curl --proto '=https' --tlsv1.6 -sSf https://sh.rust 1.9
 
 
 source $HOME/.cargo/en 
